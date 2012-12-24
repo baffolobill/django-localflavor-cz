@@ -1,0 +1,90 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jaffa McNeill <jaffa.mcneill@gmail.com>, 2012.
+#   <kristjan.schmidt@googlemail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-cz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:39-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Jaffa McNeill <jaffa.mcneill@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+#: cz_regions.py:8
+msgid "Prague"
+msgstr "Prago"
+
+#: cz_regions.py:9
+msgid "Central Bohemian Region"
+msgstr "Mezbohemia regiono"
+
+#: cz_regions.py:10
+msgid "South Bohemian Region"
+msgstr "Sudbohemia regiono"
+
+#: cz_regions.py:11
+msgid "Pilsen Region"
+msgstr "Regiono Pilseno"
+
+#: cz_regions.py:12
+msgid "Carlsbad Region"
+msgstr "Regiono Karlsbado"
+
+#: cz_regions.py:13
+msgid "Usti Region"
+msgstr "Regiono Ustio"
+
+#: cz_regions.py:14
+msgid "Liberec Region"
+msgstr "Regiono Liberec"
+
+#: cz_regions.py:15
+msgid "Hradec Region"
+msgstr "Regiono Hradeco"
+
+#: cz_regions.py:16
+msgid "Pardubice Region"
+msgstr "Pardubico regiono"
+
+#: cz_regions.py:17
+msgid "Vysocina Region"
+msgstr "Regiono Vysočina"
+
+#: cz_regions.py:18
+msgid "South Moravian Region"
+msgstr "Sudmoravia regiono"
+
+#: cz_regions.py:19
+msgid "Olomouc Region"
+msgstr "Olomouc-regiono"
+
+#: cz_regions.py:20
+msgid "Zlin Region"
+msgstr "Regiono Zlín"
+
+#: cz_regions.py:21
+msgid "Moravian-Silesian Region"
+msgstr "Moraviasilezia regiono"
+
+#: forms.py:32
+msgid "Enter a postal code in the format XXXXX or XXX XX."
+msgstr "Enigu poŝtan kodon laŭ la formato XXXXX aŭ XXX XX."
+
+#: forms.py:52
+msgid "Enter a birth number in the format XXXXXX/XXXX or XXXXXXXXXX."
+msgstr "Enigu naskiĝon nombron laŭ la formato  XXXXXX/XXXX aŭ XXXXXXXXXX."
+
+#: forms.py:53
+msgid "Enter a valid birth number."
+msgstr "Enigu validan naskiĝon nombron."
+
+#: forms.py:102
+msgid "Enter a valid IC number."
+msgstr "Enigu validan IC nombron."

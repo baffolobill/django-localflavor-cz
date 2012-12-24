@@ -1,0 +1,90 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Sergey Lysach <sergikoff88@gmail.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-cz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:39-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Sergey Lysach <sergikoff88@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: cz_regions.py:8
+msgid "Prague"
+msgstr "Прага"
+
+#: cz_regions.py:9
+msgid "Central Bohemian Region"
+msgstr ""
+
+#: cz_regions.py:10
+msgid "South Bohemian Region"
+msgstr ""
+
+#: cz_regions.py:11
+msgid "Pilsen Region"
+msgstr ""
+
+#: cz_regions.py:12
+msgid "Carlsbad Region"
+msgstr ""
+
+#: cz_regions.py:13
+msgid "Usti Region"
+msgstr ""
+
+#: cz_regions.py:14
+msgid "Liberec Region"
+msgstr ""
+
+#: cz_regions.py:15
+msgid "Hradec Region"
+msgstr ""
+
+#: cz_regions.py:16
+msgid "Pardubice Region"
+msgstr ""
+
+#: cz_regions.py:17
+msgid "Vysocina Region"
+msgstr ""
+
+#: cz_regions.py:18
+msgid "South Moravian Region"
+msgstr ""
+
+#: cz_regions.py:19
+msgid "Olomouc Region"
+msgstr ""
+
+#: cz_regions.py:20
+msgid "Zlin Region"
+msgstr ""
+
+#: cz_regions.py:21
+msgid "Moravian-Silesian Region"
+msgstr ""
+
+#: forms.py:32
+msgid "Enter a postal code in the format XXXXX or XXX XX."
+msgstr "Введіть поштовий індекс у форматі XXXXX або XXX XX."
+
+#: forms.py:52
+msgid "Enter a birth number in the format XXXXXX/XXXX or XXXXXXXXXX."
+msgstr ""
+
+#: forms.py:53
+msgid "Enter a valid birth number."
+msgstr ""
+
+#: forms.py:102
+msgid "Enter a valid IC number."
+msgstr ""
